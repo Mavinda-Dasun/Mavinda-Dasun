@@ -1,4 +1,4 @@
-## Profile snapshot
+## Profile
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=mavinda-dasun&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186092743%3Fu%3Dc29752700cd439fe4f70e6fd04df8d459e25423d%26v%3D4" alt="mavinda-dasun hero visual" />
