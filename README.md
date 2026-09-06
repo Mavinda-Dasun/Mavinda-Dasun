@@ -43,4 +43,4 @@
 
 <a href="https://github.com/mavinda-dasun">GitHub</a>
 
-<p align="center"><sub>Mavinda Dasun · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Mavinda Dasun · Student</sub></p>
